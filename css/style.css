@@ -11,7 +11,7 @@ p{
     text-align: center;
 }
 .header{
-    height: 89px;
+    height: 125px;
     width: 100%;
     background-color: white; 
     border-bottom: 1px solid #848484; 
@@ -25,19 +25,25 @@ p{
     line-height: 35px;
     float: left;
     padding-left: 200px;
+    padding-bottom: 20px;
+    font-size: 40px;
 }
 .menu{float:right; padding-right: 200px;}
 .menu li{list-style: none; float:left;}
 .menu a{
-    line-height: 35px; 
+    line-height: 80px; 
     color: black; 
-    padding: 0 15px;
+    padding: 0 10px;
     display: block;
     text-decoration: none;
 }
+.menu a:hover{
+    font-family: monospace;
+    font-size: 150%;
+}
 
 .mainContent{
-    padding-top: 110px; padding-right: 130px; padding-left: 130px;
+    padding-top: 140px; padding-right: 130px; padding-left: 130px;
     height: 400px;
 }
 
@@ -57,17 +63,9 @@ p{
 .newArriv h4{
     margin: 0;
 }
-
-.card-columns{
-    column-count: 4;
+.saleOffer{
+    color: #cc0000;
 }
-
-.card
-{
-    width: 350px; height: 300px;
-    float: left;
-}
-
 .newArriv .more{
     text-decoration: none;
     text-align: right; padding-right: 150px;
@@ -78,6 +76,13 @@ p{
     text-align: right; padding-right: 150px;
     display: block;
 }
+
+input[type=submit]{
+    width: 6em; height: 3em;
+}
+
+
+
 * {box-sizing: border-box;}
 body {font-family: Verdana, sans-serif;}
 .mySlides {display: none;}
