@@ -21,6 +21,7 @@
 
 # P3 Live Demo
 - This is portfolio 3 live demo.
+- Shoppimg mall website template.
 - front-end : html, css, javascript
 - Start: 2020-01-16
 ---------
