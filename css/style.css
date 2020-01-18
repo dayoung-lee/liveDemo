@@ -66,6 +66,7 @@ p{
 .saleOffer{
     color: #cc0000;
 }
+/*
 .newArriv .more{
     text-decoration: none;
     text-align: right; padding-right: 150px;
@@ -75,11 +76,18 @@ p{
     text-decoration: none;
     text-align: right; padding-right: 150px;
     display: block;
+}*/
+
+.more a{
+    text-decoration: none;
+    text-align: right; padding-right: 150px;
+    display: block;
 }
 
 input[type=submit]{
     width: 6em; height: 3em;
 }
+
 
 
 
