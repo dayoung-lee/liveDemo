@@ -1,3 +1,4 @@
+<<<<<<< HEAD:p3/main.html
 <!DOCTYPE html>
 <html>
 <head>
@@ -108,3 +109,119 @@
         </script>
 </body>
 </html>
+=======
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SHMLL</title>
+    
+    <script type = "text/javascript" src="js/script.js"></script>  
+</head>
+<body>    
+   
+    <div class="wrapper">
+        <!-- menu -->
+        <div class = "header">            
+            <p>FREE SHIPPING OVER $20!</p>
+            <a href="main.html"><h1>SHMLL</h1></a>
+            <nav>
+                <ul class="menu">
+                    <li><a href="main.html">Home</a></li>
+                    <li><a href="women/womenMain.html">Women</a></li>
+                    <li><a href="men/menMain.html">Men</a></li>
+                    <li><a href="cart.html">Cart</a></li>
+                    <li><a href="myPage.html">My Page</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div> <!-- /header -->   
+
+        <div class = "mainSlide">
+           <h2 style = "margin-top: 150px">Welcome to SHMLL !</h2>
+            <div class="slideshow-container">        
+                <div class="mySlides fade">                
+                  <img src="image/mall1.jpg" style="width:100%; height:500px;">
+                </div>        
+                <div class="mySlides fade">        
+                  <img src="image/mall2.jpg" style="width:100%; height:500px;">
+                </div>        
+                <div class="mySlides fade">
+                  <img src="image/mall3.jpg" style="width:100%; height:500px;">
+                </div>        
+            </div>
+        </div>
+        
+        <br>
+        
+        <div style="text-align:center">
+          <span class="dot"></span> 
+          <span class="dot"></span> 
+          <span class="dot"></span> 
+        </div>
+
+        <div class = "mainContentText" style = "text-align: left; padding-left: 600px;"> 
+                <h3>SHMLL</h3>
+                This is a test shopping mall website.<br/>
+                I am Dayoung Lee.<br/>
+                This is my portfolio website.<br/></br>
+                This is a test shopping mall website.<br/>
+                I am Dayoung Lee.<br/>
+                This is my portfolio website.<br/></br>
+                This is a test shopping mall website.<br/>
+                I am Dayoung Lee.<br/>
+                This is my portfolio website.<br/></br></br>
+                Thank You.
+             
+                <br><br>
+        </div>
+
+        <div class = "newArriv">
+                <h3>New arrivals</h3></br>
+            <figure style = "float: left">
+                <a href="file:///D:/portfolio/p3/men/menShirt1.html"><img src = "image/shirt1.jpg" width="280px"; height = "200px";><figcaption>$21.50</figcaption></a></figure>
+            <figure style = "float: left">
+                <a href="file:///D:/portfolio/p3/men/menShirt1.html"><img src = "image/skirt1.jpg" width="280px"; height = "200px";><figcaption>$21.50</figcaption></a></figure>
+            <figure style = "float: left">
+                <a href="file:///D:/portfolio/p3/men/menShirt1.html"><img src = "image/womenS1.jpg" width="280px"; height = "200px";><figcaption>$21.50</figcaption></a></figure>
+                <div class = "more"><a href = "men/menMain.html"> See more...</a></div>
+        </div>
+           <br><br>
+        <div class = "saleOffer">
+                <h3>Now Sales!</h3></br>
+                <a href="file:///D:/portfolio/p3/men/menShirt1.html"><img src = "image/dress1.jpg" width="280px"; height = "200px";></a>
+                <img src = "image/pants1.jpg" width="280px"; height = "200px";>
+                <img src = "image/pants2.jpg" width="280px"; height = "200px";><br>   
+                <div class = "more"><a href = "men/menMain.html"> See more...</a></div>
+        </div>            
+    </div> <!-- /wrapper -->   
+    
+   <!--footer--> 
+    <br><br>
+    <hr>
+    <div class = "footer" style="text-align: center">@SHMLL</div>
+    <br>
+  <link rel="stylesheet" href="css/style.css"/>
+  <script>
+        var slideIndex = 0;
+        showSlides();
+        
+        function showSlides() {
+          var i;
+          var slides = document.getElementsByClassName("mySlides");
+          var dots = document.getElementsByClassName("dot");
+          for (i = 0; i < slides.length; i++) {
+            slides[i].style.display = "none";  
+          }
+          slideIndex++;
+          if (slideIndex > slides.length) {slideIndex = 1}    
+          for (i = 0; i < dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" active", "");
+          }
+          slides[slideIndex-1].style.display = "block";  
+          dots[slideIndex-1].className += " active";
+          setTimeout(showSlides, 2000); // Change image every 2 seconds
+        }
+        </script>
+</body>
+</html>
+>>>>>>> f32ed78d79f30688e9508d7837d05e97ba01114d:main.html
