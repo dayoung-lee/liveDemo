@@ -19,7 +19,8 @@
                 <nav>
                     <ul class="menu">
                         <li><a href="../main.html">Home</a></li>
-                        <li><a href="womenMain.html">Women</a></li>
+                        <li><a href="womenMain.html" style = "font-family: monospace;
+                            font-size: 180%;">Women</a></li>
                         <li><a href="../men/menMain.html">Men</a></li>
                         <li><a href="../cart.html">Cart</a></li>
                         <li><a href="../myPage.html">My Page</a></li>    
@@ -28,7 +29,7 @@
                 </nav>
         </div> <!-- /menu -->  
 
-        <div class = "shirt1">             
+        <div class = "detailItem">             
             <img src="../image/womenS1.jpg" width ="400px " height = "300px" id = "big">
             <br/><br/> 
             <img src="../image/womenS1.jpg" width = "130px" height = "130px" onmouseover="showBig('womenS1.jpg');"/>
@@ -37,18 +38,28 @@
                                
         </div><!-- /Men shirt -->    
     </div><!-- /wrapper -->
-    <div class = "description1" style = "padding-left: 100px; padding-top: 120px; float: left;"> 
-        <h1>Black Shirt</h1>
+    <div class = "description1"> 
+        <h1>Striped shirt </h1>
         Size : S M L XL<br/>
-        Color : Black<br/>
+        Color : Red, Blue<br/>
         Price : $21.50<br/><br/>
         
+        <div class = "option" style = "float: left;">Size: </div>
         <form action = "/actio_page.php">
             <select name = "size">
                     <option value = "--">--</option>
                     <option value = "small">S</option>
                     <option value = "medium">M</option>
                     <option value = "large">L</option>
+            </select>
+        </form>
+
+        <div class = "option" style = "float: left;">Color: </div>
+        <form action = "/actio_page.php">
+            <select name = "coloer">
+                    <option value = "--">--</option>
+                    <option value = "red">Red</option>
+                    <option value = "blue">Blue</option>
             </select>
         </form>
         
@@ -61,7 +72,7 @@
         <br/><br/>
 
         <input type = "button" value = "Order" onclick = "window.location.href = '../order.html'">
-        <input type = "button" value = "Back" onclick="window.location.href = '../men/menMain.html'">            
+        <input type = "button" value = "Back" onclick="window.location.href = '../women/womenMain.html'">            
         </form>
     </div>  <!--/description1 -->
     <div class = "moreItem" style = "padding-top: 630px; text-align : center;">

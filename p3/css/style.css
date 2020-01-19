@@ -1,7 +1,7 @@
 /*header*/
 .wrapper{width:1170px; height:100%; margin: 0 auto; text-align: center;}
 
-body{height:100%; margin: 0; padding: 0;}
+body{height:100%; margin: 0; padding: 0; font-family: monospace;}
 p{
     background-color: #E6E6E6;
     margin: auto auto;
@@ -37,10 +37,13 @@ p{
     display: block;
     text-decoration: none;
 }
-.menu a:hover{
-    font-family: monospace;
-    font-size: 150%;
+a{
+    text-decoration: none;
 }
+.menu a:hover{   
+    font-size: 130%;
+}
+
 
 .mainContent{
     padding-top: 140px; padding-right: 130px; padding-left: 130px;
@@ -54,34 +57,35 @@ p{
     float: left; 
 }
 
-.shirt1{
+.detailItem{
     float: left;
-    padding-top: 120px; padding-left: 200px;
+    padding-top: 160px; padding-left: 200px;
     width: 700px;
     height: 0;
 }
+.description1{
+    padding-left: 100px; padding-top: 160px; float: left;
+}
+figure{
+    float: left;
+}
+
 .newArriv h4{
     margin: 0;
 }
 .saleOffer{
     color: #cc0000;
+    margin-top: 200px;
 }
-/*
-.newArriv .more{
-    text-decoration: none;
-    text-align: right; padding-right: 150px;
-    display: block;
-}
-.saleOffer .more{
-    text-decoration: none;
-    text-align: right; padding-right: 150px;
-    display: block;
-}*/
+
 
 .more a{
-    text-decoration: none;
-    text-align: right; padding-right: 150px;
+    text-align: right; padding-right: 90px;
     display: block;
+    height: 0;
+}
+.more a:hover{
+    font-weight:bold;
 }
 
 input[type=submit]{
@@ -102,7 +106,7 @@ img {vertical-align: middle;}
   max-height: 800px;
   position: relative;
   display: block;
-  margin: auto;
+  margin: 0 auto;
 }
 
 /* Caption text */
