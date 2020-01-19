@@ -23,7 +23,7 @@
 - This is portfolio 3 live demo.
 - Shoppimg mall website template.
 - front-end : html, css, javascript
-- Start: 2020-01-16
+- Start: 2020-01-16 ~ 01-19
 ---------
 + url : https://dayoung-lee.github.io/liveDemo/p3/main.html
 + Other projectS : https://github.com/dayoung-lee/Portfolio (not live demo)
