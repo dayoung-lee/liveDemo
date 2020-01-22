@@ -39,7 +39,7 @@
 
 ### function
   + can change contents, list using Ajax.
-  + Log in and out using Facebook API.
+  + Log in and out using Facebook API. (can check login status showing login/logout button)
 ---------
 
 + Other projectS : https://github.com/dayoung-lee/Portfolio (not live demo)
