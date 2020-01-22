@@ -30,7 +30,7 @@
 
 + Other projectS : https://github.com/dayoung-lee/Portfolio (not live demo)
 
-# 4 Live Demo
+# P4 Live Demo
 + url : https://dayoung-lee.github.io/liveDemo/p4/index.html
 - Thi sis portfolio 4 live demo.
 - front-end : html, javascript (Ajax)
