@@ -1,3 +1,4 @@
+Other projectS : https://github.com/dayoung-lee/Portfolio (not live demo)
 # P2 Live Demo
 + url : <b>http://dayoung-lee.github.io/liveDemo/p2/index.html</b>
 - This is portfolio 2 live demo.
@@ -16,10 +17,6 @@
 + Weather API
   + it shows current temperature & location.  
 --------
-
-+ Other projectS : https://github.com/dayoung-lee/Portfolio (not live demo)
-
-
 # P3 Live Demo
 + url : <b>https://dayoung-lee.github.io/liveDemo/p3/main.html</b>
 - This is portfolio 3 live demo.
@@ -27,9 +24,6 @@
 - front-end : html, css, javascript
 - Start: 2020-01-16 ~ 01-19
 ---------
-
-+ Other projectS : https://github.com/dayoung-lee/Portfolio (not live demo)
-
 # P4 Live Demo (updating)
 + url : <b>https://dayoung-lee.github.io/liveDemo/p4/index.html</b>
 - Thi sis portfolio 4 live demo.
@@ -41,5 +35,3 @@
   + can change contents, list using Ajax.
   + Log in and out using Facebook API. (can check login status showing login/logout button)
 ---------
-
-+ Other projectS : https://github.com/dayoung-lee/Portfolio (not live demo)
