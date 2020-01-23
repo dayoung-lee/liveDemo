@@ -1,5 +1,5 @@
 # P2 Live Demo
-+ url : http://dayoung-lee.github.io/liveDemo/p2/index.html
++ url : <b>http://dayoung-lee.github.io/liveDemo/p2/index.html</b>
 - This is portfolio 2 live demo.
 - This project 2 is a cloning website which is 'Momentum'.
   + (Momentum : https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en)
@@ -21,7 +21,7 @@
 
 
 # P3 Live Demo
-+ url : https://dayoung-lee.github.io/liveDemo/p3/main.html
++ url : <b>https://dayoung-lee.github.io/liveDemo/p3/main.html</b>
 - This is portfolio 3 live demo.
 - Shoppimg mall website template.
 - front-end : html, css, javascript
@@ -30,8 +30,8 @@
 
 + Other projectS : https://github.com/dayoung-lee/Portfolio (not live demo)
 
-# P4 Live Demo
-+ url : https://dayoung-lee.github.io/liveDemo/p4/index.html
+# P4 Live Demo (updating)
++ url : <b>https://dayoung-lee.github.io/liveDemo/p4/index.html</b>
 - Thi sis portfolio 4 live demo.
 - front-end : html, javascript (Ajax)
 - server : bitnami(WAMP)
