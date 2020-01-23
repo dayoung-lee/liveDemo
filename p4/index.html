@@ -65,6 +65,7 @@
                 FB.logout(function(res){
                     // handle the response
                     console.log('logout => ', res);
+                    FB.Auth.setAuthResponse(null, 'unknown');
                     checkLoginStatus(res);                 
                 }); 
             }
