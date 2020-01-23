@@ -1,4 +1,4 @@
-Other projectS : https://github.com/dayoung-lee/Portfolio (not live demo)
+Source : https://github.com/dayoung-lee/Portfolio (not live demo)
 # P2 Live Demo
 + url : <b>http://dayoung-lee.github.io/liveDemo/p2/index.html</b>
 - This is portfolio 2 live demo.
