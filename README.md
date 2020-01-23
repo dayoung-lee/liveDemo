@@ -26,7 +26,7 @@ Source : https://github.com/dayoung-lee/Portfolio (not live demo)
 ---------
 # P4 Live Demo (updating)
 + url : <b>https://dayoung-lee.github.io/liveDemo/p4/index.html</b>
-- Thi sis portfolio 4 live demo.
+- Thi is portfolio 4 live demo.
 - front-end : html, javascript (Ajax)
 - server : bitnami(WAMP)
 - Start: 2020-01-21
