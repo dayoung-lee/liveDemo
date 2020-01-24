@@ -32,3 +32,4 @@ Source : https://github.com/dayoung-lee/Portfolio (not live demo)
   + user can save/delete customers' transaction history
 + Tip Calculator
   + user can put customer number, bill amount, tip(%), number of people
+---------
