@@ -25,13 +25,4 @@ Source : https://github.com/dayoung-lee/Portfolio (not live demo)
 - Start: 2020-01-16 ~ 01-19
 ---------
 # P4 Live Demo (updating)
-+ url : <b>https://dayoung-lee.github.io/liveDemo/p4/index.html</b>
-- Thi is portfolio 4 live demo.
-- front-end : html, javascript (Ajax)
-- server : bitnami(WAMP)
-- Start: 2020-01-21
-
-### function
-  + can change contents, list using Ajax.
-  + Log in and out using Facebook API. (can check login status showing login/logout button)
----------
++ url : <b>
