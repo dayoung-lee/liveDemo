@@ -26,7 +26,7 @@ Source : https://github.com/dayoung-lee/Portfolio (not live demo)
 + url: <b>https://tip-calculator-app.herokuapp.com/</b>
 - front-end : html, css, javascript (node.js express)
 - Date: 2020-01-23
-
+- refactoring required.
 ### function
 + Main
   + user can save/delete customers' transaction history
