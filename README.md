@@ -18,13 +18,12 @@ Source : https://github.com/dayoung-lee/Portfolio (not live demo)
 --------
 # P3/ Shopping Mall Template (Live Demo)
 + url : <b>https://dayoung-lee.github.io/liveDemo/p3/main.html</b>
-- This is portfolio 3 live demo.
-- Front-end : html, css, javascript
+- Front-end : HTML, CSS, JavaScript
 - Date: 2020-01-16 ~ 01-19
 ---------
 # P4/ Tip Calculator (Live Demo)
 + url: <b>https://tip-calculator-app.herokuapp.com/</b>
-- Front-end : html, css, javascript (node.js express)
+- Front-end : HTML, CSS, JavaScript (node.js express)
 - Date: 2020-01-23
 - refactoring required.
 ### function
