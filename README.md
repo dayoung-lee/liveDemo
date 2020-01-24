@@ -1,5 +1,5 @@
 Source : https://github.com/dayoung-lee/Portfolio (not live demo)
-# P2 Momentum clone (Live Demo)
+# P2/ Momentum clone (Live Demo)
 + url : <b>http://dayoung-lee.github.io/liveDemo/p2/index.html</b>
 - This project 2 is a cloning website which is 'Momentum'.
   + (Momentum : https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en)
@@ -16,13 +16,13 @@ Source : https://github.com/dayoung-lee/Portfolio (not live demo)
 + Weather API
   + it shows current temperature & location.  
 --------
-# P3 Shopping mall template (Live Demo)
+# P3/ Shopping Mall Template (Live Demo)
 + url : <b>https://dayoung-lee.github.io/liveDemo/p3/main.html</b>
 - This is portfolio 3 live demo.
 - Front-end : html, css, javascript
 - Date: 2020-01-16 ~ 01-19
 ---------
-# P4 Tip Calculator (Live Demo)
+# P4/ Tip Calculator (Live Demo)
 + url: <b>https://tip-calculator-app.herokuapp.com/</b>
 - Front-end : html, css, javascript (node.js express)
 - Date: 2020-01-23
