@@ -3,7 +3,7 @@ Source : https://github.com/dayoung-lee/Portfolio (not live demo)
 + url : <b>http://dayoung-lee.github.io/liveDemo/p2/index.html</b>
 - This project 2 is a cloning website which is 'Momentum'.
   + (Momentum : https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en)
-- front-end : HTML, CSAS, Javascript(VanillaJS)
+- Front-end : HTML, CSAS, Javascript(VanillaJS)
 
 ### function
 + Main
@@ -19,12 +19,12 @@ Source : https://github.com/dayoung-lee/Portfolio (not live demo)
 # P3 Shopping mall template (Live Demo)
 + url : <b>https://dayoung-lee.github.io/liveDemo/p3/main.html</b>
 - This is portfolio 3 live demo.
-- front-end : html, css, javascript
+- Front-end : html, css, javascript
 - Date: 2020-01-16 ~ 01-19
 ---------
 # P4 Tip Calculator (Live Demo)
 + url: <b>https://tip-calculator-app.herokuapp.com/</b>
-- front-end : html, css, javascript (node.js express)
+- Front-end : html, css, javascript (node.js express)
 - Date: 2020-01-23
 - refactoring required.
 ### function
