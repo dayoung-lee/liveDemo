@@ -20,7 +20,15 @@ Source : https://github.com/dayoung-lee/Portfolio (not live demo)
 + url : <b>https://dayoung-lee.github.io/liveDemo/p3/main.html</b>
 - This is portfolio 3 live demo.
 - front-end : html, css, javascript
-- Start: 2020-01-16 ~ 01-19
+- Date: 2020-01-16 ~ 01-19
 ---------
 # P4 Tip Calculator (Live Demo)
 + url https://tip-calculator-app.herokuapp.com/
+- front-end : html, css, javascript (node.js express)
+- Date: 2020-01-23
+
+### function
++ Main
+  + user can save/delete customers' transaction history
++ Tip Calculator
+  + user can put customer number, bill amount, tip(%), number of people
