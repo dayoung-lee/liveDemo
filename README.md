@@ -23,7 +23,7 @@ Source : https://github.com/dayoung-lee/Portfolio (not live demo)
 - Date: 2020-01-16 ~ 01-19
 ---------
 # P4 Tip Calculator (Live Demo)
-+ url https://tip-calculator-app.herokuapp.com/
++ url: <b>https://tip-calculator-app.herokuapp.com/</b>
 - front-end : html, css, javascript (node.js express)
 - Date: 2020-01-23
 
