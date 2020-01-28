@@ -19,7 +19,7 @@ Source : https://github.com/dayoung-lee/Portfolio (not live demo)
 # P3/ Shopping Mall Template (Live Demo)
 + url : <b>https://dayoung-lee.github.io/liveDemo/p3/main.html</b>
 - Front-end : HTML, CSS, JavaScript
-- Date: 2020-01-16 ~ 01-19
+- Date: 2020.01.16-19
 ---------
 # P4/ Tip Calculator (Live Demo)
 + url: <b>https://tip-calculator-app.herokuapp.com/</b>
@@ -42,4 +42,6 @@ Source : https://github.com/dayoung-lee/Portfolio (not live demo)
    + user can create/read/update/delete their write.
 ----
 # P6/ Restaurant Template
-
+- Live Demo : <b>https://dayoung-lee.github.io/restaurant-app/#/</b>
+- Front-end : HTML, CSS, JavaScript (React)
+- Date : 2020.01.27-28
